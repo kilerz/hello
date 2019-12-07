@@ -4,7 +4,7 @@ void main() => runApp(MyApp());
 
 /// This Widget is the main application widget.
 class MyApp extends StatelessWidget {
-  static const String _title = 'Farika Riau Perkasa ';
+  static const String _title = 'Sleeph5';
 
   @override
   Widget build(BuildContext context) {
